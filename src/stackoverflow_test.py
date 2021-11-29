@@ -59,7 +59,7 @@ def test_mostrar_evolucion_etiquetas(preguntas):
 ################################################################
 if __name__ == '__main__':
     pass
-    #preguntas = leer_preguntas('./data/stackoverflow_python_questions.csv')
+    #preguntas = leer_preguntas('../data/stackoverflow_python_questions.csv')
     # test_leer_preguntas(preguntas)
     # test_filtrar_por_anyo(preguntas)
     # test_calcular_etiquetas(preguntas)
